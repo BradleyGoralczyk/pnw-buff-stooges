@@ -38,6 +38,10 @@ In the home tab you (the user) are able to view the app's main page to find, cre
 
 
 
+!\[Home Tab](hifi/screen-1-home-tab.png)
+
+
+
 \## Screen 2 - Create New Routine
 
 
@@ -46,11 +50,19 @@ Allows the user to create a new routine and search for exercises for different m
 
 
 
+!\[Create New Routine](hifi/screen-2-create-new-routine.png)
+
+
+
 \## Screen 3 - Discovery
 
 
 
 Allows user to view specific exercises and see how they work, what muscles, and add it to the routine.
+
+
+
+!\[Discovery](hifi/screen-3-discovery.png)
 
 
 
